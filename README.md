@@ -104,7 +104,7 @@ The server stops using the CLI command:
 A registered customer can use the following built-in PBX services by dialing the following command combinations on his phone:
 
 Command | Service
-- | -
+-|-
 *11 | Interception of a call (ring) from a nearby phone with the same accountcode
 *72XXXXXXXXXX | Setting call forwarding to a number XXXXXXXXXX
 *71XXXXXXXXXX | Setting call forwarding to a number XXXXXXXXXX if the base number will be not available (off, busy etc)
