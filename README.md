@@ -120,4 +120,4 @@ Sipd server is distributed under license [MIT](https://github.com/gbazil/sipd/bl
 Vasily Suvorov (gbazil)
 
 ---
-[bazil.pro](http://bazil.pro) Moscow 2018
+[bazil.pro](https://gbazil.github.io) Moscow 2018
